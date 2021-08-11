@@ -5,4 +5,4 @@ date: "8/4/2021"
 output: pdf_document
 ---
 
-My name is Miles, and my favorite dessert is coffee flavored ice cream.
+My name is Miles, and my favorite dessert is coffee flavored ice cream.\footnote{This is a footnote.}
